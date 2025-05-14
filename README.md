@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mohammad Mahdi 👋</h1>
+<h1 align="center">Hi there, I'm Mohammad Mahdi Gholinia 👋</h1>
 
 <p align="center">
 🎓 Computer Science Student | 💻 Python & AI Enthusiast | 🚀 On my journey to becoming a professional developer
@@ -35,10 +35,7 @@
 ---
 
 ### 📬 Contact Me:
-- 📧 Email: your.email@example.com *(replace with your actual email)*
+- 📧 Email: mohammadmahdigholinia220@gmail.com
 - 🌐 Portfolio: yourwebsite.com *(optional)*
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile) *(if you have)*
-
----
 
 > 🧠 Always learning. Always building. One step closer every day.
