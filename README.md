@@ -9,7 +9,7 @@ I'm currently learning Django and Django REST Framework, building projects, and 
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,DRF,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github" />
 </p>
 
 ---
@@ -24,6 +24,4 @@ I'm currently learning Django and Django REST Framework, building projects, and 
 
 *Still learning, still building, one project at a time.*
 
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:98FB98&height=120&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:00B4D8&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=32&fontColor=FFFFFF)
