@@ -1,4 +1,4 @@
-# Hi, I'm Mohammad Mahdi 👋
+# Hi, I'm Mohammad
 
 🎓 Computer Science Student  
 💻 Interested in Backend Development
@@ -25,3 +25,5 @@ I'm currently learning Django and Django REST Framework, building projects, and 
 *Still learning, still building, one project at a time.*
 
 ---
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:98FB98&height=120&section=footer)
