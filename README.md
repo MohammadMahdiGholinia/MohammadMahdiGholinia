@@ -9,7 +9,7 @@ I'm currently learning Django and Django REST Framework, building projects, and 
 ### 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,django,html,css,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,django,DRF,html,css,git,github,vscode" />
 </p>
 
 ---
