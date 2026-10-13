@@ -24,5 +24,4 @@ I'm currently learning Django and Django REST Framework, building projects, and 
 
 *Still learning, still building, one project at a time.*
 
-پ
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0A2540,100:00B4D8&height=120&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=28&fontColor=FFFFFF&fontAlignY=68)
